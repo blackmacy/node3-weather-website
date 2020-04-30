@@ -12,8 +12,3 @@ The API is deployed using Heroku.
 * CSS
 * Git
 * Heroku
-
-# Demo for the API:
-<div align="center">
-    <img src="/demo.jpg", width="320">
-</div>
